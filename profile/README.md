@@ -34,13 +34,6 @@ Il est aujourd'hui disponible aux serveurs Discord afin de se faire connaître, 
 
 ---
 
-## 📊 Statistiques de l'organisation
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=French-gg&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats">
-</p>
-
----
 
 ## 🚀 Naviguer parmis les différentes pages
 
