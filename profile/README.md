@@ -1,7 +1,7 @@
 <!-- .github/profile/README.md -->
 
 <p align="center">
-  <img src="https://i.french.gg/branding/french-color.svg" width="120" alt="French.gg logo">
+  <img src="https://i.french.gg/branding/french-color.png" width="120" alt="French.gg logo">
 </p>
 
 <h1 align="center">Bienvenue chez French.gg 🌟</h1>
